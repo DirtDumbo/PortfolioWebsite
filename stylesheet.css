@@ -27,6 +27,7 @@ p {
   color: #e9e3e6;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  padding: 5px;
 }
 ul {
   list-style-type: none;
@@ -47,6 +48,9 @@ ul li a {
   margin-right: auto;
   font-family: Arial, Helvetica, sans-serif;
 }
+a {
+  text-align: center;
+}
 ul li a:hover {
   background: #480355;
 }
@@ -56,4 +60,9 @@ img {
   position: relative;
   width: 100%;
   height: 100%;
+}
+a{
+  text-decoration: none;
+  color: #e9e3e6;
+  font-family: Arial, Helvetica, sans-serif;
 }

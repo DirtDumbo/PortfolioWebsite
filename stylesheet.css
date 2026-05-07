@@ -56,6 +56,8 @@ ul li a {
 }
 a {
   text-align: center;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
 }
 ul li a:hover {
   background: #480355;
@@ -66,9 +68,4 @@ img {
   position: relative;
   width: 100%;
   height: 100%;
-}
-a{
-  text-decoration: none;
-  color: #ffffff;
-  font-family: Arial, Helvetica, sans-serif;
 }
